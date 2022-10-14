@@ -1,13 +1,24 @@
-# FORCE
+
+
+
+# FORCE on GPU
 
 **Framework for Operational Radiometric Correction for Environmental monitoring**
 
-**Version 3.7.8**
-
-![FORCE Logo](/images/force.png)
-
 
 ## About
+
+This is a fork of David Frantz's **FORCE**. It is an attempt to enhance its
+processing by rewriting relevant sections in CUDA. Primarily, this is for
+educational purposes (for myself) but who knows, it might actually work. 
+
+## Roadmap
+
+[] rewrite sections in CUDA  
+
+[] benchmark performance
+
+[] see what happens
 
 **FORCE** is an all-in-one processing engine for medium-resolution Earth Observation image archives. FORCE uses the data cube concept to mass-generate Analysis Ready Data, and enables large area + time series applications. With FORCE, you can perform all essential tasks in a typical Earth Observation Analysis workflow, i.e. going from data to information.
 
