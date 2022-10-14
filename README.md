@@ -14,11 +14,11 @@ educational purposes (for myself) but who knows, it might actually work.
 
 ## Roadmap
 
-[] rewrite sections in CUDA  
+[ ] rewrite sections in CUDA  
 
-[] benchmark performance
+[ ] benchmark performance
 
-[] see what happens
+[ ] see what happens
 
 **FORCE** is an all-in-one processing engine for medium-resolution Earth Observation image archives. FORCE uses the data cube concept to mass-generate Analysis Ready Data, and enables large area + time series applications. With FORCE, you can perform all essential tasks in a typical Earth Observation Analysis workflow, i.e. going from data to information.
 
